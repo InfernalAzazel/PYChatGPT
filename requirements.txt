@@ -1,0 +1,5 @@
+pywebview~=4.0.1
+pyyaml~=6.0
+pydantic~=1.10.5
+pycairo
+PyGObject~=3.42.2
